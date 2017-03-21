@@ -1,0 +1,25 @@
+select:focus,
+select:active,
+textarea:hover,
+input:hover,
+textarea:active,
+input:active,
+textarea:focus,
+input:focus,
+button:focus,
+button:active,
+button:hover,
+label:focus,
+.btn:active,
+.btn.active,
+a:hover,
+a:focus {
+  outline: 0px !important;
+  -webkit-appearance: none;
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1); }
+
+input {
+  border: none !important; }
+
+body {
+  font-family: "Roboto Light", sans-serif; }

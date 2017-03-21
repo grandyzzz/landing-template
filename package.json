@@ -1,0 +1,16 @@
+{
+  "name": "Landing name",     //change this PROPERTIES
+  "version": "1.0.0",
+  "description": "Art Park",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Konstantin Luferenko",
+  "license": "ISC",
+  "devDependencies": {
+    //"browser-sync": "^2.18.8",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
